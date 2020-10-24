@@ -43,6 +43,7 @@ public class Main {
 
       System.out.println(S60.producer);
       System.out.println(S60.color);
+        System.out.println(S60.power);
 
 
 
