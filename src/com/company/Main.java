@@ -1,5 +1,6 @@
 package com.company;
 
+import java.awt.*;
 import java.sql.SQLOutput;
 
 public class Main {
@@ -33,6 +34,17 @@ public class Main {
 
         dog.feed(10.0);
         System.out.println(dog.weight);
+
+     Car S60 = new Car();
+        S60.producer = "Volvo";
+        S60.model = "sport";
+        S60.color = "red";
+        S60.power = 400.0;
+
+      System.out.println(S60.producer);
+      System.out.println(S60.color);
+
+
 
 
 

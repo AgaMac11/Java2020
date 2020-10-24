@@ -23,7 +23,7 @@ public class Animal {
                 if(this.weight <=0 ) {
                     System.out.println("You cannot walk the street qith a dead pet");
                 } else {
-                    this.weight += ;
+                    this.weight --;
 
 
                 }
